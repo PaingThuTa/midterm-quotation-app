@@ -1,5 +1,6 @@
 # WAD 2025 Midterm Quotation App
-```
+
+
 2. Install dependencies
 ```bash
 pnpm install
